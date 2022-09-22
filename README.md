@@ -1,6 +1,6 @@
 ## Hi there, I'm Cassin01 👋
 
-[![](https://img.shields.io/badge/crate.io-Cassin01-yellow)](https://crates.io/users/Cassin01)
+[![](https://img.shields.io/badge/crates.io-Cassin01-yellow)](https://crates.io/users/Cassin01)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cassin01&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
